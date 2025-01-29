@@ -39,11 +39,6 @@ This project is a **front-end web page** designed for an online movie and event 
 - **HTML5**: Structuring the webpage elements.
 - **CSS3**: Styling and layout design.
 
-# How to Run the Project:
-1. **Clone the repository** using:
-   ```sh
-   git clone https://github.com/your-repository-link.git
-
    
 Open the index.html file in any web browser.
 Future Enhancements:
